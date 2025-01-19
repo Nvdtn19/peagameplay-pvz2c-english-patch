@@ -45,6 +45,10 @@
 - @twinstar6980 - for his Twinning tool.
 - @CyberSteve777 and @viiguess - for the server which is used to host the translation file.
 - @evilhack28 and @Nectarinna - translators and helpers.
+- @evilhack28 - for his Easy Quest and Turbo Button + Auto collecting sun patch.
+- HNR - He inspired me to do this translation.
+- PvZ2's Heavenly OBB - for the universal fonts.
+
 And some other people that helped me growing this project!
 
 ## My social platforms
