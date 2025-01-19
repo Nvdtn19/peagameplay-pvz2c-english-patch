@@ -14,11 +14,11 @@
 > This translation is not a fully completed product. However, it's worth noting that this mod has successfully translated the most important aspects such as plants and quests, enhancing your understanding of the game.
 
 ## Download and Tutorials
-- If you want to install this translation mod to the game, see the releases section for the download and tutorial. [test](https://google.com)
-- If you want to build your own translation, reference to the CyberSteve's tutorial.
+- If you want to install this translation mod to the game, see the [releases](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/releases) section for the download and tutorial. 
+- If you want to build your own translation, reference to the [CyberSteve's tutorial.](https://github.com/CyberSteve777/cybersteve777.github.io)
 
 ## Frequently Asked Questions
-See the wiki for FAQ about this translation mod.
+[See the wiki](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/wiki/Frequently-Asked-Questions) for FAQ about this translation mod.
 
 ## Credits
 - @harumazzz - for his Sen tool which I used to create this translation mod.
