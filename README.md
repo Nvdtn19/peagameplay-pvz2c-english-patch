@@ -2,7 +2,7 @@
 #### A mod for PvZ2 Chinese version that's aims to translate the game from Chinese to English. Created by me.
 
 ## Compatibility and requires
-- **You need to have the game installed first.**
+- **You need to have the lastest version of the game installed first.**
 - **This mod is compatible with both iOS and Android.** However, iOS has some limitations and the installation method might be complicated for some users.
 
 ## Features
