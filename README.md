@@ -54,10 +54,10 @@ And some other people that helped me growing this project!
 
 ## Screenshots
 
-###### If you would like to report bugs or have any suggestions please open an issue or join my official discord server. 🙂
 
 ## My social platforms
 - YouTube: https://youtube.com/@peagameplay-vn
 - Discord server: https://discord.gg/9dNbcJRvyb
 - Email: nvdtn19forwork@gmail.com
+###### If you would like to report bugs or have any suggestions please open an issue or join my official discord server. 🙂
 
