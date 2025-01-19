@@ -29,6 +29,7 @@
 | Mower Launch and Instant Recharge upgrades in 🌟Star Exchange shop | ❌ | ✅ |
 | 🔑 Unlocking new world with 1 stars  | ❌ | ✅ |
 
+Please do note that some of features in EP Plus edition are exclusived. That means you will need permissions if you ever want to bundle it in any other mods.
 
 > **Note:** 
 > This translation is not a fully completed product. However, it's worth noting that this mod has successfully translated the most important aspects such as plants and quests, enhancing your understanding of the game.
@@ -50,6 +51,10 @@
 - PvZ2's Heavenly OBB - for the universal fonts.
 
 And some other people that helped me growing this project!
+
+## Screenshots
+
+###### If you would like to report bugs or have any suggestions please open an issue or join my official discord server. 🙂
 
 ## My social platforms
 - YouTube: https://youtube.com/@peagameplay-vn
