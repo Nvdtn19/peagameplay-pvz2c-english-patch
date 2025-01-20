@@ -19,7 +19,6 @@
 | ⏩️ Turbo Button | ✅ | ✅ | 
 | Auto Collecting 🔆Sun | ✅ | ✅ |
 | Locally UI 👑VIP profile picture | ✅ | ✅ | 
-| Small capacity | ✅ | ❌ |
 | Fonts | ❌ Cafeteria font only | ✅More extra fonts (For Android only) |
 | Crystals you can get after beating an Adventure level  | 50~100/week | ✅20000/week |
 | 🌿Plant Food and 🔆Sun costs  | 💎Gems | 💰Coins |
