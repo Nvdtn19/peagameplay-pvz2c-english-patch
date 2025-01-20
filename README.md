@@ -6,7 +6,7 @@
 - **This mod is compatible with both iOS and Android.** However, iOS has some limitations and the installation method might be complicated for some users.
 
 ## Features
-- This mod includes 2 variants: English patch Lite and English patch Plus Edition. *Lite edition only includes translated texts in-game and lightest, while Plus edition offer more extra features but heavier.*
+- This mod includes 2 variants: English patch Lite and English patch Plus Edition. *Lite edition only includes translation and some essential features in-game and lightest, while Plus edition offer more extra features but heavier.*
 - Translated texts in-game use Cafeteria font, same as the international version. **More fonts are available in the English patch Plus Edition.**
 - Some extra features.
 
