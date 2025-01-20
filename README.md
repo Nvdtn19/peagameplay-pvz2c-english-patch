@@ -26,7 +26,7 @@
 | Octopus Artifact | 💰Paywalled | ✅Free |
 | Using 🚫banned plants in Memory Lane | ❌ | ✅ |
 | Easy Quest (auto complete some tasks) | ❌ | ✅ |
-| Mower Launch and Instant Recharge upgrades in 🌟Star Exchange shop | ❌ | ✅ |
+| Cheaper star required in 🌟Star Exchange shop | ❌ | ✅ |
 | 🔑 Unlocking new world with 1 stars  | ❌ | ✅ |
 
 Please do note that some of features in EP Plus edition are exclusived. That means you will need permissions if you ever want to bundle it in any other mods.
