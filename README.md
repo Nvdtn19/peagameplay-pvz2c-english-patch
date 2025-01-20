@@ -1,5 +1,5 @@
 # Nvdtn19's English patch for Pvz2C 
-#### A mod for PvZ2 Chinese version that's aims to translate the game from Chinese to English. Created by me. With love ❤️
+#### A mod for PvZ2 Chinese version that's aims to translate the game from Chinese to English. Created by me. With love ❤️ 
 
 ## Compatibility and requires
 - **You need to have the lastest version of the game installed first.** See [here](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/wiki/How-to-download-and-install-the-game%3F) for tutorial.
