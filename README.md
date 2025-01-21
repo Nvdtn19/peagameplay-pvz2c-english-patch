@@ -29,7 +29,6 @@
 | Mower Launch + Instant Recharge in 🌟Star Exchange shop | ❌ | ✅ |
 | 🔑 Unlocking new world with 1 stars  | ❌ | ✅ |
 | Some improvements to Daily Challenge | ❌ | ✅ |
-| Arena now playing Ultimate Battle Music | ❌ | ✅ |
 
 Please do note that some of features in EP Plus edition are exclusived. That means you will need permissions if you ever want to bundle it in any other mods.
 
