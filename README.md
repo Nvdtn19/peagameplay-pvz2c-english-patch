@@ -37,6 +37,7 @@ Please do note that some of features in EP Plus edition are exclusived. That mea
 
 ## Download and Tutorials
 - If you want to install this translation mod to the game, see the [releases](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/releases) section for the download and tutorial.
+
 Quick link: [Android version](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/releases/tag/Android) - [iOS version](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/releases/tag/iOS)
 - If you want to build your own translation, reference to the [CyberSteve's tutorial.](https://github.com/CyberSteve777/cybersteve777.github.io)
 
