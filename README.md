@@ -60,5 +60,5 @@ And some other people that helped me growing this project!
 - YouTube: https://youtube.com/@peagameplay-vn
 - Discord server: https://discord.gg/9dNbcJRvyb
 - Email: nvdtn19forwork@gmail.com
-###### If you would like to report bugs or have any suggestions please open an issue or join my official discord server. Also consider sponsoring this project if you find it useful to give me more motivation to maintain the translation! 🙂
+# If you would like to report bugs or have any suggestions please open an issue or join my official discord server. Also consider sponsoring this project if you find it useful to give me more motivation to maintain the translation! You can either sponsor me via GitHub Sponsor or buy me a coffee 🙂
 
