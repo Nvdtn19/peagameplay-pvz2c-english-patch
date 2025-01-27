@@ -1,24 +1,17 @@
 # Nvdtn19's English patch for Pvz2C 
 #### A mod for PvZ2 Chinese version that's aims to translate the game from Chinese to English. Created by me. With love ❤️ 
 
-## Compatibility and requires
-- **You need to have the lastest version of the game installed first.** See [here](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/wiki/How-to-download-and-install-the-game%3F) for tutorial.
-- **This mod is compatible with both iOS and Android.** However, iOS has some limitations and the installation method might be complicated for some users.
-
 ## Features
-- This mod includes 2 variants: English patch Lite and English patch Plus Edition. *Lite edition only includes translation and some essential features in-game and lightest, while Plus edition offer more extra features but heavier.*
+- This mod includes 2 variants: English patch Lite and English patch Plus Edition. *Lite edition only includes translation and some essential features in-game, while Plus edition offer more extra features but heavier.*
 - Translated texts in-game use Cafeteria font, same as the international version. **More fonts are available in the English patch Plus Edition.**
 - Some extra features.
-
-> Note:
-> You must beat the Ancient Egypt day 4 first if you're a new player, if you want to use the EP Plus Edition. Otherwise, use the EP Lite or just leave the game unmodified to avoid any crashes.
 
 | Features | EP Lite | EP Plus |
 | ---- | ----------- | -------------- | 
 | 🌐 English translated | ✅ | ✅ |
 | ⏩️ Turbo Button | ✅ | ✅ | 
 | Auto Collecting 🔆Sun | ✅ | ✅ |
-| Locally UI 👑VIP profile picture | ✅ | ✅ | 
+| 👑VIP circle profile picture | ✅ | ✅ | 
 | Fonts | ❌ Cafeteria font only | ✅More extra fonts (For Android only) |
 | Crystals you can get after beating an Adventure level  | 50~100/week | ✅20000/week |
 | 🌿Plant Food and 🔆Sun costs  | 💎Gems | 💰Coins |
@@ -35,6 +28,10 @@ Please do note that some of features in EP Plus edition are exclusived. That mea
 > **Note:** 
 > This translation is not a fully completed product. However, it's worth noting that this mod has successfully translated the most important aspects such as plants and quests, enhancing your understanding of the game.
 
+## Compatibility and requires
+- **You need to have the lastest version of the game installed first.** See [here](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/wiki/How-to-download-and-install-the-game%3F) for tutorial.
+- **This mod is compatible with both iOS and Android.** However, iOS has some limitations and the installation method might be complicated for some users.
+
 ## Download and Tutorials
 - If you want to install this translation mod to the game, see the [releases](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/releases) section for the download and tutorial.
 
@@ -49,6 +46,7 @@ Quick link: [Android version](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-p
 - @twinstar6980 - for his Twinning tool.
 - @CyberSteve777 and @viiguess - for the server which is used to host the translation file.
 - @evilhack28 and @Nectarinna - translators and helpers.
+- @RusselSky and @ShadowVT - for the English texture translation.
 - @evilhack28 - for his Easy Quest and Turbo Button + Auto collecting sun patch.
 - HNR - He inspired me to do this translation.
 - PvZ2's Heavenly OBB - for the universal fonts.
