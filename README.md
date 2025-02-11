@@ -9,7 +9,7 @@
 | Features | EP Lite | EP Plus |
 | ---- | ----------- | -------------- | 
 | 🌐 English translated | ✅ | ✅ |
-| 👑 Monthly Card (VIP) Privilege features*: Turbo button, Auto collecting, daily Tactical Cuke| ✅ | ✅ | 
+| 👑 Monthly Card (VIP) Privilege features`*`: Turbo button, Auto collecting, daily Tactical Cuke| ✅ | ✅ | 
 | Fonts | ❌ Cafeteria font only | ✅More extra fonts |
 | Crystals you can get after beating an Adventure level  | 50~100/week | ✅20000/week |
 | 🌿Plant Food and 🔆Sun costs  | 💎Gems | 💰Coins |
@@ -22,7 +22,7 @@
 | 🔑 Unlocking new world with 1 stars  | ❌ | ✅ |
 | Some improvements to Daily Challenge | ❌ | ✅ |
 
-* This can only enable the fake monthly card. Some other server-sided VIP features (daily gems, crystal, fuel as well as double rewards in calendar...) will not work as modifications cannot enable real VIP privileges.
+`*` This can only enable the fake monthly card. Some other server-sided VIP features (daily gems, crystal, fuel as well as double rewards in calendar...) will not work as modifications cannot enable real VIP privileges.
 
 Please do note that some of features in EP Plus edition are exclusived. That means you will need permissions from me if you ever want to bundle it in any other mods.
 
