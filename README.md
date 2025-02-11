@@ -6,7 +6,7 @@
 - Translated texts in-game use Cafeteria font, same as the international version. **More fonts are available in the English patch Plus Edition.**
 - Some extra features.
 
-| Features | EP Lite | EP Plus |
+| Features | EP Basic | EP Plus |
 | ---- | ----------- | -------------- | 
 | 🌐 English translated | ✅ | ✅ |
 | 👑 Monthly Card (VIP) Privilege features`*`: Turbo button, Auto collecting, daily Tactical Cuke| ✅ | ✅ | 
