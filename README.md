@@ -15,7 +15,7 @@
 | 🌿Plant Food and 🔆Sun costs  | 💎Gems | 💰Coins |
 | Octopus Artifact | 💰Paywalled | ✅Free |
 | Using 🚫banned plants in Memory Lane | ❌ | ✅ |
-| Cheaper Tactical Cuke | ✅ | ✅ |
+| Cheaper Tactical Cuke | ❌ | ✅ |
 | Easy Quest (auto complete some tasks) | ❌ | ✅ |
 | Cheaper 🌟Star Exchange shop | ❌ | ✅ |
 | Mower Launch + Instant Recharge in 🌟Star Exchange shop | ❌ | ✅ |
