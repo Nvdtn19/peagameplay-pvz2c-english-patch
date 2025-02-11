@@ -22,7 +22,7 @@
 | 🔑 Unlocking new world with 1 stars  | ❌ | ✅ |
 | Some improvements to Daily Challenge | ❌ | ✅ |
 
-`*` This can only enable the fake monthly card. Some other server-sided VIP features (daily gems, daily crystal, daily Penny's Pursuit fuel, doubling rewards in calendar...) will not work as modifications cannot enable real VIP privileges.
+`*` This can only enable the fake monthly card. Some other server-sided VIP features (daily gems, daily crystal, daily Penny's Pursuit fuel, doubling rewards in calendar...) will not work as modifications cannot enable real VIP, which is a paywalled privileges.
 
 Please do note that some of features in EP Plus edition are exclusived. That means you will need permissions from me if you ever want to bundle it in any other mods.
 
