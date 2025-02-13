@@ -2,7 +2,7 @@
 #### A mod for PvZ2 Chinese version that's aims to translate the game from Chinese to English. Created by me. With love ❤️ 
 
 ## Features
-- This mod includes 2 variants: English patch Lite and English patch Plus Edition. *Lite edition only includes translation and some essential features in-game, while Plus edition offer more extra features but heavier.*
+- This mod includes 2 variants: English patch Basic and English patch Plus Edition. *Basic edition only includes translation and some essential features in-game, while Plus edition offer more extra features but heavier.*
 - Translated texts in-game use Cafeteria font, same as the international version. **More fonts are available in the English patch Plus Edition.**
 - Some extra features.
 
