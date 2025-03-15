@@ -1,4 +1,4 @@
-# Nvdtn19's English patch for Pvz2C 
+# Pea Gameplay's English patch for Pvz2C 
 #### A mod for PvZ2 Chinese version that's aims to translate the game from Chinese to English. Created by me. With love ❤️ 
 
 ## Features
