@@ -9,8 +9,7 @@
 | Features | EP Basic | EP Plus |
 | ---- | ----------- | -------------- | 
 | 🌐 English translated | ✅ | ✅ |
-| 👑 Monthly Card (VIP) Privilege features`*`: Turbo button, Auto collecting, daily Tactical Cuke| ✅ | ✅ | 
-| Fonts | ❌ Cafeteria font only | ✅More extra fonts |
+| 👑 Monthly Card (VIP) Privilege `*`: Turbo button, Auto collecting, daily Tactical Cuke| ✅ | ✅ | 
 | Crystals you can get after beating an Adventure level  | 50~100/week | ✅20000/week |
 | 🌿Plant Food and 🔆Sun costs  | 💎Gems | 💰Coins |
 | Octopus Artifact | 💰Paywalled | ✅Free |
