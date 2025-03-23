@@ -41,6 +41,20 @@ Quick link: [Android version](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-p
 ## Frequently Asked Questions
 [See the wiki](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/wiki/Frequently-Asked-Questions) for FAQ about this translation mod.
 
+## End User License Agreement
+**You must agree to this EULA when using this patch:**
+
+1. This notice must remain intact and unaltered in all distributions of the translation mod.
+2. This translation mod is an independent, community-created project and is not affiliated with, endorsed by, or associated with the original game developers in any way.
+3. Some of the translations in-game: the plant, zombie names, and flavor texts are not official. As said in above, they are not endorsed by the official developer team in any way, shape, or form. Everything presented here, aside from the plants and zombies that came from the original game, is fan-made.
+4. The translations are achieved by a mixture of AI and a lot of personal jobs. It can't be avoided from containing some mistakes. Feel free to report any bugs you find. Please allow for a small percentage of human error.
+5. This mod is free to use by anyone. It may not be used for any commercial purposes. You are not allowed to sell, monetize, or earn moneys from this mod.
+6. You can't bundle this product as a part of another one without written permission from the author. If used as part of a project or referenced, proper credit must be given to the author in a visible and appropriate manner.
+7. You may not claim ownership of this mod. Proper credit must always be given to the original author.
+8. Any misuses, including but not limited to adding inappropriate, offensive, or harassing content, is strictly PROHIBITED under all circumstances.
+9. Users are encouraged to report any instances of violation of these terms to the author.
+10. The author reserves all rights not expressly granted in this agreement.
+
 ## Credits
 - @harumasss - for his Sen tool which I used to create this translation mod.
 - @twinstar6980 - for his Twinning tool.
