@@ -38,7 +38,7 @@ Quick link: [Android version](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-p
 
 - If you want to build your own translation, reference to the [CyberSteve's tutorial.](https://github.com/CyberSteve777/cybersteve777.github.io)
 
-## Frequently Asked Questions
+## Frequently Asked Questions 
 [See the wiki](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-patch/wiki/Frequently-Asked-Questions) for FAQ about this translation mod.
 
 ## End User License Agreement
@@ -62,7 +62,7 @@ Quick link: [Android version](https://github.com/Nvdtn19/nvdtn19-pvz2c-english-p
 - @evilhack28 and @Nectarinna - translators and helpers.
 - @RusselSky and @ShadowVT - for the English texture translation.
 - @evilhack28 - for his Easy Quest and fake VIP features.
-- HNR - He inspired me to do this translation.
+- HNR - He inspired me to do this translation patch!
 - PvZ2's Heavenly OBB - for the universal fonts.
 
 And some other people that helped me growing this project!
