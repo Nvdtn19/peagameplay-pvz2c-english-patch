@@ -74,5 +74,10 @@ And some other people that helped me growing this project!
 - YouTube: https://youtube.com/@peagameplay-vn
 - Discord server: https://discord.gg/9dNbcJRvyb
 - Email: nvdtn19forwork@gmail.com
-## If you would like to report bugs or have any suggestions please open an issue or join my official discord server. Also consider sponsoring this project if you find it useful to give me more motivation to maintain the translation! You can either sponsor me via GitHub Sponsor or buy me a coffee 🙂
+
+If you have any issues or suggestions with the translation patch, please directly forward to me via those platforms or open an issues on GitHub.
+
+## Sponsors
+- **Your contribution is always appreciated!** If you find this project useful, consider supporting me via GitHub sponsors or you can [buy me a coffee.](https://buymeacoffee.com/nvdtn19) to give me more motivation to maintain the patch and make the translation patch always free to everyone. 🙂
+- Also, give me a star on this repo if you like it.
 
