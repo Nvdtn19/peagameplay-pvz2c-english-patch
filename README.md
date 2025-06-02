@@ -3,7 +3,7 @@
 
 ## Features
 - This mod includes 2 variants: English patch Basic and English patch Plus Edition. *Basic edition only includes translation and some essential features in-game, while Plus edition offer more extra features but heavier.*
-- Translated texts in-game use Cafeteria font, same as the international version. **More fonts are available in the English patch Plus Edition.**
+- Translated texts in-game use Cafeteria font, same as the international version. Dave, Penny, HouseOfTerror are also be implemented.
 - Some extra features.
 
 | Features | EP Basic | EP Plus |
