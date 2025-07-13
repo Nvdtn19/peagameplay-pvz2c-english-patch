@@ -20,7 +20,8 @@
 | Cheaper 🌟Star Exchange shop | ❌ | ✅ |
 | Mower Launch + Instant Recharge in 🌟Star Exchange shop | ❌ | ✅ |
 | 🔑 Unlocking new world with 1 stars  | ❌ | ✅ |
-| Some improvements to Daily Challenge | ❌ | ✅ |
+| Get more pieces in Daily Challenge | ❌ | ✅ |
+| Health bar for all the zombies (experiments) | ❌ | ✅ |
 
 `*` This can only enable the fake monthly card. Some other server-sided VIP features (daily gems, daily crystal, daily Penny's Pursuit fuel, doubling rewards in calendar...) will not work as modifications cannot enable real VIP, which is a paywalled privileges.
 
