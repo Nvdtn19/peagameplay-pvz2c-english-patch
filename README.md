@@ -78,7 +78,6 @@ And some other people that helped me growing this project!
 
 If you have any issues or suggestions with the translation patch, please directly forward to me via those platforms or open an issues on GitHub.
 
-## Sponsors
-- **Your contribution is always appreciated!** If you find this project useful, consider supporting me via GitHub sponsors or you can [buy me a coffee.](https://buymeacoffee.com/nvdtn19) to give me more motivation to maintain the patch and make the translation patch always free to everyone. 🙂
-- Also, give me a star on this repo if you like it.
+## Supporting
+- Give me a star on this repo if you like it.
 
