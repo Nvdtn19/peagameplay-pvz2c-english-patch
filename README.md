@@ -9,7 +9,7 @@
 | Features | EP Basic | EP Plus |
 | ---- | ----------- | -------------- | 
 | 🌐 English translated | ✅ | ✅ |
-| 👑 Monthly Card (VIP) Privilege `*`: Turbo button, Auto collecting, daily Tactical Cuke| ✅ | ✅ | 
+| 👑 Monthly Card (VIP) Privilege `*`: Auto collecting coins and sun, daily Tactical Cuke| ✅ | ✅ | 
 | Crystals you can get after beating an Adventure level  | 50~100/week | ✅20000/week |
 | Better fonts | ✅ | ✅ |
 | 🌿Plant Food and 🔆Sun costs  | 💎Gems | 💰Coins |
@@ -21,7 +21,6 @@
 | Mower Launch + Instant Recharge in 🌟Star Exchange shop | ❌ | ✅ |
 | 🔑 Unlocking new world with 1 stars  | ❌ | ✅ |
 | Get more pieces in Daily Challenge | ❌ | ✅ |
-| Health bar for all the zombies (experiments) | ❌ | ✅ |
 
 `*` This can only enable the fake monthly card. Some other server-sided VIP features (daily gems, daily crystal, daily Penny's Pursuit fuel, doubling rewards in calendar...) will not work as modifications cannot enable real VIP, which is a paywalled privileges.
 
