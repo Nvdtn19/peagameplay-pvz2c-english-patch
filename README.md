@@ -78,5 +78,5 @@ And some other people that helped me growing this project!
 If you have any issues or suggestions with the translation patch, please directly forward to me via those platforms or open an issues on GitHub.
 
 ## Supporting
-- Give me a star on this repo if you like it.
+- Give me a star on this repo if you like it. You can also [buy me a coffee](https://buymeacoffee.com/nvdtn19) or via GitHub Sponsor.
 
