@@ -9,7 +9,7 @@
 | Features | EP Basic | EP Plus |
 | ---- | ----------- | -------------- | 
 | 🌐 English translated | ✅ | ✅ |
-| 👑 Monthly Card (VIP) Privilege `*`: Auto collecting coins and sun, daily Tactical Cuke| ✅ | ✅ | 
+| 👑 Monthly Card (VIP) Privilege `*`: Auto collecting coins and sun, daily Tactical Cuke| ❌ | ✅ | 
 | Crystals you can get after beating an Adventure level  | 50~100/week | ✅20000/week |
 | Better fonts | ✅ | ✅ |
 | 🌿Plant Food and 🔆Sun costs  | 💎Gems | 💰Coins |
